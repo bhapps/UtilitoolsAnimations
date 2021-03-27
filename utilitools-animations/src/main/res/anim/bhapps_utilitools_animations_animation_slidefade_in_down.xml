@@ -10,8 +10,8 @@
             android:repeatMode="reverse"
             android:startOffset="0" />
 
-    <translate android:duration="200"
-               android:fromYDelta="-100%p"
+    <translate android:duration="250"
+               android:fromYDelta="-5%p"
                android:toYDelta="0"
                android:repeatMode="reverse"
                android:startOffset="0" />
